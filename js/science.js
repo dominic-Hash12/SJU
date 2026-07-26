@@ -167,12 +167,12 @@ rotation:"0 180 0"
 
 computer:{
 
-title:"Computer Laboratory",
+title:"Banyaan Tree",
 
 description:
-"Computer laboratory with modern systems.",
+"Peaceful Ozone",
 
-image:"../images/science/computer.jpeg",
+image:"../images/science/entrance.jpg",
 
 transition:
 "../videos/science/corridor.MOV",
