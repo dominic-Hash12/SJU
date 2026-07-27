@@ -172,7 +172,7 @@ title:"Banyaan Tree",
 description:
 "Peaceful Ozone",
 
-image:"../images/science/entrance.jpg",
+image:"../images/science/bny.jpg",
 
 transition:
 "../videos/science/corridor.MOV",
