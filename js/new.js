@@ -148,7 +148,7 @@ title:"Library",
 description:
 "Library with a vast collection of books and resources.",
 
-image:"../images/science/chemistry.jpeg",
+image:"../images/new/library.jpg",
 
 transition:
 "../videos/science/intro.mp4",
